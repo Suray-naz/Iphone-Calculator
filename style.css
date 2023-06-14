@@ -78,3 +78,11 @@ body{
     justify-content: flex-start;
     padding-left: 43px;
 }
+
+#minus{
+    font-size: 3rem;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 40px;
+    font-weight: bolder;
+}
