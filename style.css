@@ -24,11 +24,11 @@ body{
     align-items: center;
 }
 
-.display{
+.display-bottom{
     height: 250px;
     width: 100%;
     text-align: right;
-    padding: 40px;
+    padding: 38px;
     font-size: 90px;
     display: flex;
     flex-direction: column;
@@ -79,10 +79,3 @@ body{
     padding-left: 43px;
 }
 
-#minus{
-    font-size: 3rem;
-    justify-content: center;
-    align-items: center;
-    padding-bottom: 40px;
-    font-weight: bolder;
-}
